@@ -11,3 +11,5 @@ data/raw/congreso_2026/*
 !data/raw/congreso_2026/.gitkeep
 data/interim/*
 !data/interim/.gitkeep
+.venv/
+notebooks/drafts/arquitectura
