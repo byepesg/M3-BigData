@@ -1,4 +1,4 @@
-# Dos conteos, dos elecciones
+# Dos conteos, dos elecciones.
 
 **Plataforma de big data para analizar la concordancia del conteo y la correspondencia territorial del voto en Colombia 2026**
 
