@@ -255,3 +255,4 @@ El proyecto dura **4 semanas**, del jueves 19 de noviembre al miércoles 16 de d
 
 - **Datos:** Registraduría Nacional del Estado Civil y DANE. Información pública reutilizada conforme a la Ley 1712 de 2014 (transparencia y acceso a la información pública).
 - **Asistencia de IA:** el equipo usó Claude (Anthropic) como apoyo en la estructuración y redacción de la propuesta y en el diseño de la arquitectura. Las decisiones, los análisis y la validación del contenido son responsabilidad del equipo.
+
