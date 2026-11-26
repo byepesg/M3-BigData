@@ -13,3 +13,10 @@ data/interim/*
 !data/interim/.gitkeep
 .venv/
 notebooks/drafts/arquitectura
+
+# Archivos generados por la librería diagrams
+notebooks/**/arquitectura
+notebooks/**/arquitectura.png
+
+# Borradores locales de notebooks
+notebooks/**/*Draft.ipynb
